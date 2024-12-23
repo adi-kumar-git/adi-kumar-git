@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aman09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman09" height="30" width="40" /></a>
-<a href="https://instagram.com/p.aman29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.aman29" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-kumar199506/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar199506" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aditya_kumar_1995/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_kumar_1995" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/aman_pal_lpu22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aman_pal_lpu22" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/amanpal-leet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/amanpal-leet/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/adi4989_ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adi4989_ak" height="30" width="40" /></a>
+<a href="https://leetcode.com/adi-kumar-git" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adi-kumar-git" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
