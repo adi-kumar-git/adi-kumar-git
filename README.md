@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
-- 🔭 I’m currently working on **Data Science Skills**
+- 🔭 I’m currently working as **Data Engineer**
 
-- 🌱 I’m currently learning **Machine Learning, Power BI, Python**
+- 🌱 I’m currently learning **Machine Learning, Azure, Hadoop**
 
 - 💬 Ask me about **MySQL, Python**
 
